@@ -7,6 +7,7 @@
 // --lowercase : pour mettre le texte en minuscules
 // --uppercase : pour mettre le texte en majuscules
 // --help : pour afficher l'aide
+// voici le code:
 package main
 
 import (

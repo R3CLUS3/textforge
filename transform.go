@@ -12,7 +12,7 @@ func CleanText(content string) string {
 	var result []string
 
 	for _, line := range lines {
-		// strings.Fields découpe par tous les espaces/tabulations et supprime les espaces aux extrémités
+		// strings.Fields découpe par tous les espaces ou tabulations et supprime les espaces aux extrémités
 		words := strings.Fields(line)
 		if len(words) == 0 {
 			result = append(result, "")

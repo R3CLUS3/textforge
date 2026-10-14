@@ -27,12 +27,12 @@ textforge/
 
 | Option | Description |
 | :--- | :--- |
-| `--trim` | Supprime les espaces inutiles (début/fin, espaces multiples) et ajuste la ponctuation. |
-| `--lowercase` | Convertit l'ensemble du texte en minuscules. |
-| `--uppercase` | Convertit l'ensemble du texte en majuscules. |
-| `--capitalize` | Met en majuscule la première lettre de chaque phrase (après `.`, `!`, `?`). |
-| `--replace "ancien=nouveau"` | Remplace toutes les occurrences d'un texte par un autre. |
-| `--number-lines` | Ajoute le numéro de ligne au début de chaque ligne (ex: `1 \| ...`). |
-| `--stats` | Affiche le nombre de lignes, de mots et de caractères du fichier d'entrée. |
-| `--preview` | Affiche le résultat dans le terminal sans créer ni modifier le fichier de sortie. |
-| `--help` | Affiche la liste des options et l'aide. |
+| `--trim | Supprime les espaces inutiles (début/fin, espaces multiples) et ajuste la ponctuation. |
+| `--lowercase | Convertit l'ensemble du texte en minuscules. |
+| `--uppercase | Convertit l'ensemble du texte en majuscules. |
+| `--capitalize | Met en majuscule la première lettre de chaque phrase (après `.`, `!`, `?`). |
+| `--replace "ancien=nouveau" | Remplace toutes les occurrences d'un texte par un autre. |
+| `--number-lines | Ajoute le numéro de ligne au début de chaque ligne (ex: `1 \| ...`). |
+| `--stats | Affiche le nombre de lignes, de mots et de caractères du fichier d'entrée. |
+| `--preview | Affiche le résultat dans le terminal sans créer ni modifier le fichier de sortie. |
+| `--help | Affiche la liste des options et l'aide. |
